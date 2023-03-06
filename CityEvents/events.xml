@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfCityEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                  xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <CityEvent>
+        <Header>Балет Щелкунчик</Header>
+        <Description>Прикоснитесь к прекрасному!</Description>
+        <Image>Assets/img/risunki.jpg</Image>
+        <Date>8 марта 18:00</Date>
+        <Category>
+            <Culture>true</Culture>
+        </Category>
+		<Price>3500</Price>
+    </CityEvent>
+    <CityEvent>
+        <Header>Азбука</Header>
+        <Description>Мастер класс для детей</Description>
+        <Image>Assets/img/skazka.jpg</Image>
+        <Date>10 марта, 10:00</Date>
+        <Category>
+            <Culture>true</Culture>
+            <Kid>true</Kid>
+        </Category>
+        <Price>350</Price>
+    </CityEvent>
+    <CityEvent>
+        <Header>Тур в Монголию</Header>
+        <Description>Приглашаем всех желающих посетить Монголию
+          </Description>
+        <Image>Assets/img/excurs.jpg</Image>
+        <Date>1 июня - 12 июня</Date>
+        <Category>
+            <Excursions>true</Excursions>
+        </Category>
+        <Price>6000</Price>
+    </CityEvent>
+    
+    <CityEvent>
+        <Header>Выставка самовыров</Header>
+        <Description>Приглашаем вас на выставку самоваров</Description>
+        <Image>Assets/img/tea.jpeg</Image>
+        <Date>10 марта 16:00</Date>
+        <Category>
+            <Lifestyle>true</Lifestyle>
+        </Category>
+        <Price>200</Price>
+    </CityEvent>
+    <CityEvent>
+        <Header>Концерт Меладдзе</Header>
+        <Description>Прощальный концерт</Description>
+        <Image>Assets/img/dance.jpg</Image>
+        <Date>1 апреля 18:00</Date>
+        <Category>
+            <Party>true</Party>
+        </Category>
+        <Price>2000</Price>
+    </CityEvent>
+    <CityEvent>
+        <Header>Концерт Лепса</Header>
+        <Description>Билеты проданы...</Description>
+        <Image>Assets/img/bar.jpg</Image>
+        <Date>1 апреля 18:00</Date>
+        <Category>
+            <Party>true</Party>
+        </Category>
+        <Price>2500</Price>
+    </CityEvent>
+    <CityEvent>
+        <Header>Озеро Артыбаш</Header>
+        <Description>Количество билетов ограничено
+		</Description>
+        <Image>Assets/img/eg.jpg</Image>
+        <Date>10 марта</Date>
+        <Category>
+            <Education>true</Education>
+            <Excursions>true</Excursions>
+        </Category>
+        <Price>1500</Price>
+    </CityEvent>
+  
+   
+    <CityEvent>
+        <Header>Цирк дю солей</Header>
+        <Description>Впервые в Новосибирске</Description>
+        <Image>Assets/img/online.jpg</Image>
+        <Date>17 марта</Date>
+        <Category>
+            <Online>true</Online>
+            <Kid>true</Kid>
+        </Category>
+        <Price>15000</Price>
+    </CityEvent>
+    <CityEvent>
+        <Header>Цирк Никулина</Header>
+        <Description>Цирк на Цветном бульваре.
+		Aфиша. Удобная система заказа. Онлайн заказ и оплата. 0+ ·
+		Покупка в два клика. Билеты в наличии. Покупка онлайн.</Description>
+        <Image>Assets/img/stendap.jpg</Image>
+        <Date>25 апреля</Date>
+        <Category>
+            <Show>true</Show>
+        </Category>
+        <Price>1500</Price>
+    </CityEvent>
+    <CityEvent>
+        <Header>Шоу гимнастов</Header>
+        <Description>Лучшее шоу в вашей жизни</Description>
+        <Image>Assets/img/stendap2.jpg</Image>
+        <Date>29 апреля</Date>
+        <Category>
+            <Show>true</Show>
+        </Category>
+        <Price>15000</Price>
+    </CityEvent>
+    <CityEvent>
+        <Header>Турнир по нардам</Header>
+        <Description>Здесь только лучшие из лучших</Description>
+        <Image>Assets/img/chess.jpg</Image>
+        <Date>12 марта</Date>
+        <Category>
+            <Sport>true</Sport>
+        </Category>
+		<Price>500</Price>
+    </CityEvent>
+    <CityEvent>
+        <Header>Хоккейный матч</Header>
+        <Description>Хоккейный матч века</Description>
+        <Image>Assets/img/badm.jpg</Image>
+        <Date>13 апреля</Date>
+        <Category>
+            <Sport>true</Sport>
+        </Category>
+		<Price>1500</Price>
+    </CityEvent>
+</ArrayOfCityEvent>
